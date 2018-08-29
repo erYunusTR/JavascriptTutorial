@@ -3,47 +3,45 @@
 
 <script type="text/javascript">
     <!--
-    var a = 15; // Bit presentation 10
-    var b = 9; // Bit presentation 11
+    var a = 33;
+    var b = 10;
     var linebreak = "<br />";
+    var lineAAA = "--------------";
 
     document.write("a=" + a);
     document.write(linebreak);
     document.write("b=" + b);
     document.write(linebreak);
+    document.write(lineAAA);
+    document.write(linebreak);
 
-    document.write("(a & b) => ");
-    result = (a & b);
+    document.write("Value of a => (a = b) => ");
+    result = (a = b);
     document.write(result);
     document.write(linebreak);
 
-    document.write("(a | b) => ");
-    result = (a | b);
+    document.write("Value of a => (a += b) => ");
+    result = (a += b);
     document.write(result);
     document.write(linebreak);
 
-    document.write("(a ^ b) => ");
-    result = (a ^ b);
+    document.write("Value of a => (a -= b) => ");
+    result = (a -= b);
     document.write(result);
     document.write(linebreak);
 
-    document.write("(~a) => ");
-    result = (~a);
+    document.write("Value of a => (a *= b) => ");
+    result = (a *= b);
     document.write(result);
     document.write(linebreak);
 
-    document.write("(~b) => ");
-    result = (~b);
+    document.write("Value of a => (a /= b) => ");
+    result = (a /= b);
     document.write(result);
     document.write(linebreak);
 
-    document.write("(a << b) => ");
-    result = (a << b);
-    document.write(result);
-    document.write(linebreak);
-
-    document.write("(a >> b) => ");
-    result = (a >> b);
+    document.write("Value of a => (a %= b) => ");
+    result = (a %= b);
     document.write(result);
     document.write(linebreak);
     //-->
