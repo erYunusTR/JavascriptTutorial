@@ -1,0 +1,35 @@
+<html>
+<head>
+    <title>User-defined objects</title>
+
+    <script type="text/javascript">
+        function book(title, author) {
+            this.title = title;
+            this.author = author;
+
+        }
+    </script>
+
+
+</head>
+<body>
+
+<script type="text/javascript">
+    var myBook = new book("Perl", "Mohtashim");
+    book.prototype.price = null;
+    myBook.price = 100;
+
+             /*
+            A static property of the Number object. Use the prototype property to
+            assign new properties and methods to the Number object in the current document
+            */
+
+    document.write("Book title is : " + myBook.title + "<br>");
+    document.write("Book author is : " + myBook.author + "<br>");
+    document.write("Book prototype price is : " + book.prototype.price + "<br>");
+    document.write("Book price is : " + myBook.price + "<br>");
+
+</script>
+
+</body>
+</html>
