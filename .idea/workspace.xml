@@ -1,29 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="59b69d8b-4d04-4a59-b91c-ad04075d8a83" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/B.Objects/3.Boolean/1constructor.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/3.Boolean/2prototype.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/3.Boolean/3toSource.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/3.Boolean/4toString.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/3.Boolean/5valueOf.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/4.String/1constructor.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/4.String/2length.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/4.String/3prototype.html" afterDir="false" />
+    <list default="true" id="59b69d8b-4d04-4a59-b91c-ad04075d8a83" name="Default Changelist" comment="init">
+      <change afterPath="$PROJECT_DIR$/B.Objects/4.String/b.StringMethods/10slice.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B.Objects/4.String/b.StringMethods/11split.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B.Objects/4.String/b.StringMethods/12substr.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B.Objects/4.String/b.StringMethods/13substring.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B.Objects/4.String/b.StringMethods/14toLocaleLowerCase.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B.Objects/4.String/b.StringMethods/15toLocaleUpperCase.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B.Objects/4.String/b.StringMethods/16toLowerCase.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B.Objects/4.String/b.StringMethods/17toUpperCase.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B.Objects/4.String/b.StringMethods/18toString.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B.Objects/4.String/b.StringMethods/19valueOf.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B.Objects/4.String/b.StringMethods/1charAt.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B.Objects/4.String/b.StringMethods/2charCodeAt.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B.Objects/4.String/b.StringMethods/3concat.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B.Objects/4.String/b.StringMethods/4indexOf.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B.Objects/4.String/b.StringMethods/5lastIndexOf.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B.Objects/4.String/b.StringMethods/6localeCompare.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B.Objects/4.String/b.StringMethods/7match.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B.Objects/4.String/b.StringMethods/8.1replace.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B.Objects/4.String/b.StringMethods/8.2replace.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B.Objects/4.String/b.StringMethods/9search.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/B.Objects/2.Number/10toLocaleString.html" beforeDir="false" afterPath="$PROJECT_DIR$/B.Objects/2.Number/b.NumberMethods/3toLocaleString.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/B.Objects/2.Number/11toPrecision.html" beforeDir="false" afterPath="$PROJECT_DIR$/B.Objects/2.Number/b.NumberMethods/4toPrecision.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/B.Objects/2.Number/12toString.html" beforeDir="false" afterPath="$PROJECT_DIR$/B.Objects/2.Number/b.NumberMethods/5toString.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/B.Objects/2.Number/13valueOf.html" beforeDir="false" afterPath="$PROJECT_DIR$/B.Objects/2.Number/b.NumberMethods/6valueOf.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/B.Objects/2.Number/1maxvalue.html" beforeDir="false" afterPath="$PROJECT_DIR$/B.Objects/2.Number/a.NumberProperties/1maxvalue.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/B.Objects/2.Number/2minvalue.html" beforeDir="false" afterPath="$PROJECT_DIR$/B.Objects/2.Number/a.NumberProperties/2minvalue.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/B.Objects/2.Number/3Nan.html" beforeDir="false" afterPath="$PROJECT_DIR$/B.Objects/2.Number/a.NumberProperties/3Nan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/B.Objects/2.Number/4NegativeInfinity.html" beforeDir="false" afterPath="$PROJECT_DIR$/B.Objects/2.Number/a.NumberProperties/4NegativeInfinity.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/B.Objects/2.Number/5PositiveInfinity.html" beforeDir="false" afterPath="$PROJECT_DIR$/B.Objects/2.Number/a.NumberProperties/5PositiveInfinity.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/B.Objects/2.Number/6prototype.html" beforeDir="false" afterPath="$PROJECT_DIR$/B.Objects/2.Number/a.NumberProperties/6prototype.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/B.Objects/2.Number/7constructor.html" beforeDir="false" afterPath="$PROJECT_DIR$/B.Objects/2.Number/a.NumberProperties/7constructor.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/B.Objects/2.Number/8toExponential.html" beforeDir="false" afterPath="$PROJECT_DIR$/B.Objects/2.Number/b.NumberMethods/1toExponential.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/B.Objects/2.Number/9toFixed.html" beforeDir="false" afterPath="$PROJECT_DIR$/B.Objects/2.Number/b.NumberMethods/2toFixed.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -80,23 +79,23 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="28" />
+          <entry key="HTML" value="51" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="html" value="28" />
+          <entry key="html" value="51" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="318" />
+          <entry key="HTML" value="348" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="318" />
+          <entry key="html" value="348" />
         </counts>
       </usages-collector>
     </session>
@@ -104,7 +103,16 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/B.Objects/3.Boolean/4toString.html">
+        <entry file="file://$PROJECT_DIR$/B.Objects/4.String/b.StringMethods/13substring.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/B.Objects/4.String/b.StringMethods/14toLocaleLowerCase.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="195">
               <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
@@ -113,7 +121,25 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/B.Objects/3.Boolean/5valueOf.html">
+        <entry file="file://$PROJECT_DIR$/B.Objects/4.String/b.StringMethods/15toLocaleUpperCase.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/B.Objects/4.String/b.StringMethods/16toLowerCase.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/B.Objects/4.String/b.StringMethods/17toUpperCase.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="195">
               <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
@@ -122,16 +148,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/B.Objects/4.String/1constructor.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/B.Objects/4.String/2length.html">
+        <entry file="file://$PROJECT_DIR$/B.Objects/4.String/b.StringMethods/18toString.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="195">
               <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
@@ -140,10 +157,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/B.Objects/4.String/3prototype.html">
+        <entry file="file://$PROJECT_DIR$/B.Objects/4.String/b.StringMethods/19valueOf.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="7" lean-forward="true" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
+            <state relative-caret-position="195">
+              <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/B.Objects/4.String/b.StringMethods/12substr.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -168,26 +194,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/15.Functions/2.html" />
-        <option value="$PROJECT_DIR$/15.Functions/1.html" />
-        <option value="$PROJECT_DIR$/15.Functions/3.html" />
-        <option value="$PROJECT_DIR$/15.Functions/4.html" />
-        <option value="$PROJECT_DIR$/15.Functions/5.html" />
-        <option value="$PROJECT_DIR$/15.Functions/6.html" />
-        <option value="$PROJECT_DIR$/16.Events/1.html" />
-        <option value="$PROJECT_DIR$/16.Events/2.html" />
-        <option value="$PROJECT_DIR$/16.Events/2onsubmit.html" />
-        <option value="$PROJECT_DIR$/16.Events/2onmouseover.html" />
-        <option value="$PROJECT_DIR$/17.Cookies/1.html" />
-        <option value="$PROJECT_DIR$/17.Cookies/2.html" />
-        <option value="$PROJECT_DIR$/17.Cookies/3.html" />
-        <option value="$PROJECT_DIR$/17.Cookies/4deleteACookie.html" />
-        <option value="$PROJECT_DIR$/17.Cookies/2getCookie.html" />
-        <option value="$PROJECT_DIR$/18.PageRedirect/1.html" />
-        <option value="$PROJECT_DIR$/18.PageRedirect/2.html" />
-        <option value="$PROJECT_DIR$/18.PageRedirect/3.html" />
-        <option value="$PROJECT_DIR$/19.DialogBoxes/1.html" />
-        <option value="$PROJECT_DIR$/19.DialogBoxes/2confirmation.html" />
         <option value="$PROJECT_DIR$/19.DialogBoxes/3prompt.html" />
         <option value="$PROJECT_DIR$/20.Void/1.html" />
         <option value="$PROJECT_DIR$/20.Void/2.html" />
@@ -219,6 +225,26 @@
         <option value="$PROJECT_DIR$/B.Objects/4.String/1constructor.html" />
         <option value="$PROJECT_DIR$/B.Objects/4.String/2length.html" />
         <option value="$PROJECT_DIR$/B.Objects/4.String/3prototype.html" />
+        <option value="$PROJECT_DIR$/B.Objects/4.String/b.StringMethods/1charAt.html" />
+        <option value="$PROJECT_DIR$/B.Objects/4.String/b.StringMethods/2charCodeAt.html" />
+        <option value="$PROJECT_DIR$/B.Objects/4.String/b.StringMethods/3concat.html" />
+        <option value="$PROJECT_DIR$/B.Objects/4.String/b.StringMethods/4indexOf.html" />
+        <option value="$PROJECT_DIR$/B.Objects/4.String/b.StringMethods/5lastIndexOf.html" />
+        <option value="$PROJECT_DIR$/B.Objects/4.String/b.StringMethods/6localeCompare.html" />
+        <option value="$PROJECT_DIR$/B.Objects/4.String/b.StringMethods/7match.html" />
+        <option value="$PROJECT_DIR$/B.Objects/4.String/b.StringMethods/8replace.html" />
+        <option value="$PROJECT_DIR$/B.Objects/4.String/b.StringMethods/8.2replace.html" />
+        <option value="$PROJECT_DIR$/B.Objects/4.String/b.StringMethods/9search.html" />
+        <option value="$PROJECT_DIR$/B.Objects/4.String/b.StringMethods/10slice.html" />
+        <option value="$PROJECT_DIR$/B.Objects/4.String/b.StringMethods/11split.html" />
+        <option value="$PROJECT_DIR$/B.Objects/4.String/b.StringMethods/12substr.html" />
+        <option value="$PROJECT_DIR$/B.Objects/4.String/b.StringMethods/13substring.html" />
+        <option value="$PROJECT_DIR$/B.Objects/4.String/b.StringMethods/14toLocaleLowerCase.html" />
+        <option value="$PROJECT_DIR$/B.Objects/4.String/b.StringMethods/15toLocaleUpperCase.html" />
+        <option value="$PROJECT_DIR$/B.Objects/4.String/b.StringMethods/16toLowerCase.html" />
+        <option value="$PROJECT_DIR$/B.Objects/4.String/b.StringMethods/17toUpperCase.html" />
+        <option value="$PROJECT_DIR$/B.Objects/4.String/b.StringMethods/18toString.html" />
+        <option value="$PROJECT_DIR$/B.Objects/4.String/b.StringMethods/19valueOf.html" />
       </list>
     </option>
   </component>
@@ -249,37 +275,20 @@
             <path>
               <item name="JavascriptTutorial" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavascriptTutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="A.Basics" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavascriptTutorial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavascriptTutorial" type="462c0819:PsiDirectoryNode" />
               <item name="B.Objects" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavascriptTutorial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavascriptTutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="B.Objects" type="462c0819:PsiDirectoryNode" />
-              <item name="2.Number" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavascriptTutorial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavascriptTutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="B.Objects" type="462c0819:PsiDirectoryNode" />
-              <item name="2.Number" type="462c0819:PsiDirectoryNode" />
-              <item name="b.NumberMethods" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavascriptTutorial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavascriptTutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="B.Objects" type="462c0819:PsiDirectoryNode" />
-              <item name="3.Boolean" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavascriptTutorial" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavascriptTutorial" type="462c0819:PsiDirectoryNode" />
               <item name="B.Objects" type="462c0819:PsiDirectoryNode" />
               <item name="4.String" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavascriptTutorial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavascriptTutorial" type="462c0819:PsiDirectoryNode" />
+              <item name="B.Objects" type="462c0819:PsiDirectoryNode" />
+              <item name="4.String" type="462c0819:PsiDirectoryNode" />
+              <item name="b.StringMethods" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -294,6 +303,15 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/B.Objects/4.String/a.StringProperties" />
+      <recent name="$PROJECT_DIR$/B.Objects/3.Boolean/b.BooleanMethods" />
+      <recent name="$PROJECT_DIR$/B.Objects/3.Boolean/a.BooleanProperties" />
+      <recent name="$PROJECT_DIR$/B.Objects/2.Number/b.NumberMethods" />
+      <recent name="$PROJECT_DIR$/B.Objects/2.Number/a.NumberProperties" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -355,7 +373,7 @@
       <option name="presentableId" value="Default" />
       <updated>1535541894140</updated>
       <workItem from="1535541895382" duration="11294000" />
-      <workItem from="1535704904362" duration="7578000" />
+      <workItem from="1535704904362" duration="10202000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1535544955513</created>
@@ -483,14 +501,22 @@
       <option name="project" value="LOCAL" />
       <updated>1535719424752</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="init">
+      <created>1535721266409</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1535721266409</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18872000" />
+    <option name="totallyTimeSpent" value="21496000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="2048" height="1049" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24913666" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -522,32 +548,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/14.LoopControl/3breakWithLabel.html" />
-    <entry file="file://$PROJECT_DIR$/14.LoopControl/2continue.html" />
-    <entry file="file://$PROJECT_DIR$/14.LoopControl/1break.html" />
-    <entry file="file://$PROJECT_DIR$/15.Functions/6.html" />
-    <entry file="file://$PROJECT_DIR$/15.Functions/5.html" />
-    <entry file="file://$PROJECT_DIR$/15.Functions/4.html" />
-    <entry file="file://$PROJECT_DIR$/15.Functions/3.html" />
-    <entry file="file://$PROJECT_DIR$/15.Functions/1.html" />
-    <entry file="file://$PROJECT_DIR$/15.Functions/2.html" />
-    <entry file="file://$PROJECT_DIR$/16.Events/2onmouseover.html" />
-    <entry file="file://$PROJECT_DIR$/16.Events/1onclick.html" />
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="51" lean-forward="true" selection-start-line="1" selection-start-column="51" selection-end-line="1" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/17.Cookies/2getCookie.html" />
-    <entry file="file://$PROJECT_DIR$/17.Cookies/4deleteACookie.html" />
-    <entry file="file://$PROJECT_DIR$/17.Cookies/3setCookieWithExpires.html" />
-    <entry file="file://$PROJECT_DIR$/17.Cookies/1setCookie.html" />
-    <entry file="file://$PROJECT_DIR$/18.PageRedirect/3.html" />
-    <entry file="file://$PROJECT_DIR$/18.PageRedirect/2.html" />
-    <entry file="file://$PROJECT_DIR$/18.PageRedirect/1.html" />
-    <entry file="file://$PROJECT_DIR$/19.DialogBoxes/2confirmation.html" />
     <entry file="file://$PROJECT_DIR$/19.DialogBoxes/1alert.html" />
     <entry file="file://$PROJECT_DIR$/21.PagePrinting/1.html" />
     <entry file="file://$PROJECT_DIR$/20.Void/3.html" />
@@ -638,21 +638,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/3.Boolean/3toSource.html">
+    <entry file="file://$PROJECT_DIR$/B.Objects/3.Boolean/b.BooleanMethods/1toSource.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/3.Boolean/2prototype.html">
+    <entry file="file://$PROJECT_DIR$/B.Objects/3.Boolean/a.BooleanProperties/2prototype.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/3.Boolean/1constructor.html">
+    <entry file="file://$PROJECT_DIR$/B.Objects/3.Boolean/a.BooleanProperties/1constructor.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
@@ -694,38 +694,178 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/3.Boolean/4toString.html">
+    <entry file="file://$PROJECT_DIR$/B.Objects/4.String/b.StringMethods/5lastIndexOf.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/4.String/b.StringMethods/4indexOf.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/4.String/b.StringMethods/3concat.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="31" lean-forward="true" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/4.String/b.StringMethods/2charCodeAt.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/4.String/b.StringMethods/7match.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/4.String/b.StringMethods/6localeCompare.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/4.String/b.StringMethods/1charAt.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/4.String/a.StringProperties/3prototype.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="7" lean-forward="true" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/4.String/a.StringProperties/2length.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/3.Boolean/5valueOf.html">
+    <entry file="file://$PROJECT_DIR$/B.Objects/4.String/b.StringMethods/8.2replace.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/4.String/b.StringMethods/8.1replace.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="53" lean-forward="true" selection-start-line="2" selection-start-column="53" selection-end-line="2" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/4.String/a.StringProperties/1constructor.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/3.Boolean/b.BooleanMethods/3valueOf.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/4.String/1constructor.html">
+    <entry file="file://$PROJECT_DIR$/B.Objects/3.Boolean/b.BooleanMethods/2toString.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/4.String/b.StringMethods/9search.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="7" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/4.String/b.StringMethods/11split.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/4.String/b.StringMethods/10slice.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/4.String/b.StringMethods/12substr.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/4.String/b.StringMethods/13substring.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/4.String/b.StringMethods/14toLocaleLowerCase.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/4.String/2length.html">
+    <entry file="file://$PROJECT_DIR$/B.Objects/4.String/b.StringMethods/15toLocaleUpperCase.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/4.String/3prototype.html">
+    <entry file="file://$PROJECT_DIR$/B.Objects/4.String/b.StringMethods/16toLowerCase.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="7" lean-forward="true" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
+        <state relative-caret-position="195">
+          <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/4.String/b.StringMethods/17toUpperCase.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/4.String/b.StringMethods/18toString.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/4.String/b.StringMethods/19valueOf.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
         </state>
       </provider>
     </entry>
