@@ -2,13 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="59b69d8b-4d04-4a59-b91c-ad04075d8a83" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/19.DialogBoxes/1alert.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19.DialogBoxes/2confirmation.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19.DialogBoxes/3prompt.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20.Void/1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20.Void/2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20.Void/3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/21.PagePrinting/1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -24,6 +17,7 @@
     <session id="1932341910">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -136,7 +130,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="609" />
     <option name="y" value="71" />
     <option name="width" value="1400" />
@@ -201,6 +195,7 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="JavaScript Debug.1setCookie.html" />
       <item itemvalue="JavaScript Debug.1.html" />
       <item itemvalue="JavaScript Debug.1.html (1)" />
       <item itemvalue="JavaScript Debug.2onmouseover.html" />
@@ -227,7 +222,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1535541894140</updated>
-      <workItem from="1535541895382" duration="11277000" />
+      <workItem from="1535541895382" duration="11294000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1535544955513</created>
@@ -320,11 +315,18 @@
       <option name="project" value="LOCAL" />
       <updated>1535558499629</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="init">
+      <created>1535560615750</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1535560615750</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11277000" />
+    <option name="totallyTimeSpent" value="11294000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="609" y="71" width="1400" height="1000" extended-state="0" />
