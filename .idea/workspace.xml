@@ -2,54 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="59b69d8b-4d04-4a59-b91c-ad04075d8a83" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/B.Objects/1.Objects/1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/1.Objects/2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/1.Objects/3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/1.Objects/4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B.Objects/2.Number/1maxvalue.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B.Objects/2.Number/2minvalue.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B.Objects/2.Number/3Nan.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/1.Alert/alert.html" beforeDir="false" afterPath="$PROJECT_DIR$/A.Basics/1.Alert/alert.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/10.IfElse/1.html" beforeDir="false" afterPath="$PROJECT_DIR$/A.Basics/10.IfElse/1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/11.SwitchCase/1.html" beforeDir="false" afterPath="$PROJECT_DIR$/A.Basics/11.SwitchCase/1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/11.SwitchCase/2.html" beforeDir="false" afterPath="$PROJECT_DIR$/A.Basics/11.SwitchCase/2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/12.While/1.html" beforeDir="false" afterPath="$PROJECT_DIR$/A.Basics/12.While/1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/12.While/2.html" beforeDir="false" afterPath="$PROJECT_DIR$/A.Basics/12.While/2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/13.For/1.html" beforeDir="false" afterPath="$PROJECT_DIR$/A.Basics/13.For/1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/13.For/2.html" beforeDir="false" afterPath="$PROJECT_DIR$/A.Basics/13.For/2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/14.LoopControl/1break.html" beforeDir="false" afterPath="$PROJECT_DIR$/A.Basics/14.LoopControl/1break.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/14.LoopControl/2continue.html" beforeDir="false" afterPath="$PROJECT_DIR$/A.Basics/14.LoopControl/2continue.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/14.LoopControl/3breakWithLabel.html" beforeDir="false" afterPath="$PROJECT_DIR$/A.Basics/14.LoopControl/3breakWithLabel.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/14.LoopControl/4continueWithLabel.html" beforeDir="false" afterPath="$PROJECT_DIR$/A.Basics/14.LoopControl/4continueWithLabel.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/15.Functions/1.html" beforeDir="false" afterPath="$PROJECT_DIR$/A.Basics/15.Functions/1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/15.Functions/2.html" beforeDir="false" afterPath="$PROJECT_DIR$/A.Basics/15.Functions/2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/15.Functions/3.html" beforeDir="false" afterPath="$PROJECT_DIR$/A.Basics/15.Functions/3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/15.Functions/4.html" beforeDir="false" afterPath="$PROJECT_DIR$/A.Basics/15.Functions/4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/15.Functions/5.html" beforeDir="false" afterPath="$PROJECT_DIR$/A.Basics/15.Functions/5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/15.Functions/6.html" beforeDir="false" afterPath="$PROJECT_DIR$/A.Basics/15.Functions/6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/16.Events/1onclick.html" beforeDir="false" afterPath="$PROJECT_DIR$/A.Basics/16.Events/1onclick.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/16.Events/2onmouseover.html" beforeDir="false" afterPath="$PROJECT_DIR$/A.Basics/16.Events/2onmouseover.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/17.Cookies/1setCookie.html" beforeDir="false" afterPath="$PROJECT_DIR$/A.Basics/17.Cookies/1setCookie.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/17.Cookies/2getCookie.html" beforeDir="false" afterPath="$PROJECT_DIR$/A.Basics/17.Cookies/2getCookie.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/17.Cookies/3setCookieWithExpires.html" beforeDir="false" afterPath="$PROJECT_DIR$/A.Basics/17.Cookies/3setCookieWithExpires.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/17.Cookies/4deleteACookie.html" beforeDir="false" afterPath="$PROJECT_DIR$/A.Basics/17.Cookies/4deleteACookie.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/18.PageRedirect/1.html" beforeDir="false" afterPath="$PROJECT_DIR$/A.Basics/18.PageRedirect/1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/18.PageRedirect/2.html" beforeDir="false" afterPath="$PROJECT_DIR$/A.Basics/18.PageRedirect/2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/18.PageRedirect/3.html" beforeDir="false" afterPath="$PROJECT_DIR$/A.Basics/18.PageRedirect/3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/19.DialogBoxes/1alert.html" beforeDir="false" afterPath="$PROJECT_DIR$/A.Basics/19.DialogBoxes/1alert.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/19.DialogBoxes/2confirmation.html" beforeDir="false" afterPath="$PROJECT_DIR$/A.Basics/19.DialogBoxes/2confirmation.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/19.DialogBoxes/3prompt.html" beforeDir="false" afterPath="$PROJECT_DIR$/A.Basics/19.DialogBoxes/3prompt.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/2.ExternalJSFile/filename.js" beforeDir="false" afterPath="$PROJECT_DIR$/A.Basics/2.ExternalJSFile/filename.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/2.ExternalJSFile/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/A.Basics/2.ExternalJSFile/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/20.Void/1.html" beforeDir="false" afterPath="$PROJECT_DIR$/A.Basics/20.Void/1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/20.Void/2.html" beforeDir="false" afterPath="$PROJECT_DIR$/A.Basics/20.Void/2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/20.Void/3.html" beforeDir="false" afterPath="$PROJECT_DIR$/A.Basics/20.Void/3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/21.PagePrinting/1.html" beforeDir="false" afterPath="$PROJECT_DIR$/A.Basics/21.PagePrinting/1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/3.AritmeticOperators/1.html" beforeDir="false" afterPath="$PROJECT_DIR$/A.Basics/3.AritmeticOperators/1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/4.ComparisonOperators/1.html" beforeDir="false" afterPath="$PROJECT_DIR$/A.Basics/4.ComparisonOperators/1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/5.LogicalOperators/1.html" beforeDir="false" afterPath="$PROJECT_DIR$/A.Basics/5.LogicalOperators/1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/6.BitwiseOperators/1.html" beforeDir="false" afterPath="$PROJECT_DIR$/A.Basics/6.BitwiseOperators/1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/7.AssignmentOperators/1.html" beforeDir="false" afterPath="$PROJECT_DIR$/A.Basics/7.AssignmentOperators/1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/8.ConditionalOperator/1.html" beforeDir="false" afterPath="$PROJECT_DIR$/A.Basics/8.ConditionalOperator/1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/9.typeofOperator/1.html" beforeDir="false" afterPath="$PROJECT_DIR$/A.Basics/9.typeofOperator/1.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -106,13 +62,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="4" />
+          <entry key="HTML" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="html" value="4" />
+          <entry key="html" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
@@ -156,11 +112,38 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/B.Objects/1.Objects/4.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="495">
+              <caret line="33" column="7" lean-forward="true" selection-start-line="33" selection-start-column="7" selection-end-line="33" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/B.Objects/2.Number/1maxvalue.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="7" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/B.Objects/2.Number/2minvalue.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/B.Objects/2.Number/3Nan.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -185,9 +168,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/1.Alert/alert.html" />
-        <option value="$PROJECT_DIR$/6.BitwiseOperators/1.html" />
-        <option value="$PROJECT_DIR$/7.AssignmentOperators/1.html" />
         <option value="$PROJECT_DIR$/8.ConditionalOperator/1.html" />
         <option value="$PROJECT_DIR$/9.TypeOfOperator/1.html" />
         <option value="$PROJECT_DIR$/5.LogicalOperators/1.html" />
@@ -236,6 +216,9 @@
         <option value="$PROJECT_DIR$/B.Objects/1.Objects/2.html" />
         <option value="$PROJECT_DIR$/B.Objects/1.Objects/3.html" />
         <option value="$PROJECT_DIR$/B.Objects/1.Objects/4.html" />
+        <option value="$PROJECT_DIR$/B.Objects/2.Number/1.html" />
+        <option value="$PROJECT_DIR$/B.Objects/2.Number/2.html" />
+        <option value="$PROJECT_DIR$/B.Objects/2.Number/3Nan.html" />
       </list>
     </option>
   </component>
@@ -278,6 +261,12 @@
               <item name="JavascriptTutorial" type="462c0819:PsiDirectoryNode" />
               <item name="B.Objects" type="462c0819:PsiDirectoryNode" />
               <item name="1.Objects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavascriptTutorial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavascriptTutorial" type="462c0819:PsiDirectoryNode" />
+              <item name="B.Objects" type="462c0819:PsiDirectoryNode" />
+              <item name="2.Number" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -353,7 +342,7 @@
       <option name="presentableId" value="Default" />
       <updated>1535541894140</updated>
       <workItem from="1535541895382" duration="11294000" />
-      <workItem from="1535704904362" duration="2675000" />
+      <workItem from="1535704904362" duration="3143000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1535544955513</created>
@@ -460,11 +449,18 @@
       <option name="project" value="LOCAL" />
       <updated>1535704988371</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="init">
+      <created>1535713460003</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1535713460003</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13969000" />
+    <option name="totallyTimeSpent" value="14437000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="2048" height="1049" extended-state="6" />
@@ -573,8 +569,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/B.Objects/1.Objects/4.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="495">
+          <caret line="33" column="7" lean-forward="true" selection-start-line="33" selection-start-column="7" selection-end-line="33" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/2.Number/1maxvalue.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="7" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/2.Number/2minvalue.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/2.Number/3Nan.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
         </state>
       </provider>
     </entry>
