@@ -2,57 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="59b69d8b-4d04-4a59-b91c-ad04075d8a83" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/a.DateProperties/1constructor.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/a.DateProperties/2prototype.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/10getTime.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/11getTimezoneOffset.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/12getUTCDate.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/13getUTCDay.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/14getUTCFullYear.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/15getUTCHours.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/16getUTCMilliseconds.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/17getUTCMinutes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/18getUTCMonth.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/19getUTCSeconds.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/1Date.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/20getYear.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/21setDate.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/22setFullYear.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/23setHours.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/24setMilliseconds.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/25setMinutes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/26setMonth.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/27setSeconds.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/28setTime.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/29setUTCDate.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/2getDate.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/30setUTCFullYear.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/31setUTCHours.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/32setUTCMilliseconds.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/33setUTCMinutes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/34setUTCMonth.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/35setUTCSeconds.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/36setYear.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/37toDateString.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/38toGMTString.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/39toLocaleDateString.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/3getDay.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/40toLocaleFormat.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/41toLocaleString.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/42toLocaleTimeString.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/43toSource.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/44toString.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/45toTimeString.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/46toUTCString.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/47valueOf.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/4getFullYear.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/5getHours.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/6getMilliseconds.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/7getMinutes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/8getMonth.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/9getSeconds.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/c.DateStaticMethods/1DateParse.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/c.DateStaticMethods/2DateUTC.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -218,7 +167,7 @@
         <entry file="file://$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/1Date.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="195">
-              <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+              <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -422,7 +371,7 @@
       <option name="presentableId" value="Default" />
       <updated>1535541894140</updated>
       <workItem from="1535541895382" duration="11294000" />
-      <workItem from="1535704904362" duration="16260000" />
+      <workItem from="1535704904362" duration="16851000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1535544955513</created>
@@ -578,11 +527,18 @@
       <option name="project" value="LOCAL" />
       <updated>1535729156154</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="init">
+      <created>1535732484045</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1535732484045</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27554000" />
+    <option name="totallyTimeSpent" value="28145000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="2048" height="1049" extended-state="6" />
@@ -971,7 +927,7 @@
     <entry file="file://$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/1Date.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
-          <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
         </state>
       </provider>
     </entry>
