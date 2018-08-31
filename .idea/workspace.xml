@@ -2,30 +2,57 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="59b69d8b-4d04-4a59-b91c-ad04075d8a83" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/B.Objects/5.Arrays/a.ArrayProperties/1constructor.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/5.Arrays/a.ArrayProperties/2length.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/5.Arrays/a.ArrayProperties/3prototype.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/10push.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/11reduce.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/12reduceRight.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/13reverse.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/14shift.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/15slice.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/16some.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/17toSource.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/18sort.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/19splice.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/1concat.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/20toString.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/21unshift.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/2every.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/3filter.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/4forEach.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/5indexOf.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/6join.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/7lastIndexOf.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/8map.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/9pop.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/a.DateProperties/1constructor.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/a.DateProperties/2prototype.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/10getTime.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/11getTimezoneOffset.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/12getUTCDate.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/13getUTCDay.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/14getUTCFullYear.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/15getUTCHours.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/16getUTCMilliseconds.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/17getUTCMinutes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/18getUTCMonth.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/19getUTCSeconds.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/1Date.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/20getYear.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/21setDate.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/22setFullYear.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/23setHours.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/24setMilliseconds.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/25setMinutes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/26setMonth.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/27setSeconds.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/28setTime.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/29setUTCDate.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/2getDate.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/30setUTCFullYear.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/31setUTCHours.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/32setUTCMilliseconds.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/33setUTCMinutes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/34setUTCMonth.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/35setUTCSeconds.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/36setYear.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/37toDateString.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/38toGMTString.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/39toLocaleDateString.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/3getDay.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/40toLocaleFormat.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/41toLocaleString.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/42toLocaleTimeString.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/43toSource.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/44toString.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/45toTimeString.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/46toUTCString.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/47valueOf.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/4getFullYear.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/5getHours.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/6getMilliseconds.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/7getMinutes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/8getMonth.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/9getSeconds.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/c.DateStaticMethods/1DateParse.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B.Objects/6.Date/c.DateStaticMethods/2DateUTC.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -83,13 +110,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="132" />
+          <entry key="HTML" value="275" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="html" value="132" />
+          <entry key="html" value="275" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
@@ -105,7 +132,98 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/10getTime.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/9getSeconds.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/8getMonth.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/7getMinutes.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/6getMilliseconds.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/5getHours.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/4getFullYear.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/3getDay.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/2getDate.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/1Date.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -125,57 +243,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/B.Objects/4.String/b.StringMethods/8.2replace.html" />
-        <option value="$PROJECT_DIR$/B.Objects/4.String/b.StringMethods/9search.html" />
-        <option value="$PROJECT_DIR$/B.Objects/4.String/b.StringMethods/10slice.html" />
-        <option value="$PROJECT_DIR$/B.Objects/4.String/b.StringMethods/11split.html" />
-        <option value="$PROJECT_DIR$/B.Objects/4.String/b.StringMethods/12substr.html" />
-        <option value="$PROJECT_DIR$/B.Objects/4.String/b.StringMethods/13substring.html" />
-        <option value="$PROJECT_DIR$/B.Objects/4.String/b.StringMethods/14toLocaleLowerCase.html" />
-        <option value="$PROJECT_DIR$/B.Objects/4.String/b.StringMethods/15toLocaleUpperCase.html" />
-        <option value="$PROJECT_DIR$/B.Objects/4.String/b.StringMethods/16toLowerCase.html" />
-        <option value="$PROJECT_DIR$/B.Objects/4.String/b.StringMethods/17toUpperCase.html" />
-        <option value="$PROJECT_DIR$/B.Objects/4.String/b.StringMethods/18toString.html" />
-        <option value="$PROJECT_DIR$/B.Objects/4.String/b.StringMethods/19valueOf.html" />
-        <option value="$PROJECT_DIR$/B.Objects/4.String/c.StringHTMLWrappers/1anchor.html" />
-        <option value="$PROJECT_DIR$/B.Objects/4.String/c.StringHTMLWrappers/2big.html" />
-        <option value="$PROJECT_DIR$/B.Objects/4.String/c.StringHTMLWrappers/3blink.html" />
-        <option value="$PROJECT_DIR$/B.Objects/4.String/c.StringHTMLWrappers/bold.html" />
-        <option value="$PROJECT_DIR$/B.Objects/4.String/c.StringHTMLWrappers/4bold.html" />
-        <option value="$PROJECT_DIR$/B.Objects/4.String/c.StringHTMLWrappers/5fixed.html" />
-        <option value="$PROJECT_DIR$/B.Objects/4.String/c.StringHTMLWrappers/6fontcolor.html" />
-        <option value="$PROJECT_DIR$/B.Objects/4.String/c.StringHTMLWrappers/7fontsize.html" />
-        <option value="$PROJECT_DIR$/B.Objects/4.String/c.StringHTMLWrappers/8italics.html" />
-        <option value="$PROJECT_DIR$/B.Objects/4.String/c.StringHTMLWrappers/9link.html" />
-        <option value="$PROJECT_DIR$/B.Objects/4.String/c.StringHTMLWrappers/10small.html" />
-        <option value="$PROJECT_DIR$/B.Objects/4.String/c.StringHTMLWrappers/11strike.html" />
-        <option value="$PROJECT_DIR$/B.Objects/4.String/c.StringHTMLWrappers/12sub.html" />
-        <option value="$PROJECT_DIR$/B.Objects/4.String/c.StringHTMLWrappers/13sup.html" />
-        <option value="$PROJECT_DIR$/B.Objects/5.Arrays/a.ArrayProperties/1constructor.html" />
-        <option value="$PROJECT_DIR$/B.Objects/5.Arrays/a.ArrayProperties/2lenghth.html" />
-        <option value="$PROJECT_DIR$/B.Objects/5.Arrays/a.ArrayProperties/2length.html" />
-        <option value="$PROJECT_DIR$/B.Objects/5.Arrays/a.ArrayProperties/3prototype.html" />
-        <option value="$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/1concat.html" />
-        <option value="$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/2every.html" />
-        <option value="$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/21unshift.html" />
-        <option value="$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/3filter.html" />
-        <option value="$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/4forEach.html" />
-        <option value="$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/5indexOf.html" />
-        <option value="$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/6join.html" />
-        <option value="$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/7lastIndexOf.html" />
-        <option value="$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/8map.html" />
-        <option value="$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/9pop.html" />
-        <option value="$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/10push.html" />
-        <option value="$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/11reduce.html" />
-        <option value="$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/12reduceRight.html" />
-        <option value="$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/13reverse.html" />
-        <option value="$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/14shift.html" />
-        <option value="$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/15slice.html" />
-        <option value="$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/16some.html" />
-        <option value="$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/17toSource.html" />
-        <option value="$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/18sort.html" />
-        <option value="$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/19splice.html" />
-        <option value="$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/20toString.html" />
+        <option value="$PROJECT_DIR$/B.Objects/6.Date/c.DateStaticMethods/2DateUTC.html" />
+        <option value="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/5getFullYear.html" />
+        <option value="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/18getUTCMinutes.html" />
+        <option value="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/34.html" />
+        <option value="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/47valueOf.html" />
+        <option value="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/46toUTCString.html" />
+        <option value="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/45toTimeString.html" />
+        <option value="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/44toString.html" />
+        <option value="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/43toSource.html" />
+        <option value="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/42toLocaleTimeString.html" />
+        <option value="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/41toLocaleString.html" />
+        <option value="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/40toLocaleFormat.html" />
+        <option value="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/39toLocaleDateString.html" />
+        <option value="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/38toGMTString.html" />
+        <option value="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/37toDateString.html" />
+        <option value="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/36setYear.html" />
+        <option value="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/35setUTCSeconds.html" />
+        <option value="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/34setUTCMonth.html" />
+        <option value="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/33setUTCMinutes.html" />
+        <option value="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/32setUTCMilliseconds.html" />
+        <option value="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/31setUTCHours.html" />
+        <option value="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/30setUTCFullYear.html" />
+        <option value="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/29setUTCDate.html" />
+        <option value="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/28setTime.html" />
+        <option value="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/27setSeconds.html" />
+        <option value="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/26setMonth.html" />
+        <option value="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/25setMinutes.html" />
+        <option value="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/24setMilliseconds.html" />
+        <option value="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/23setHours.html" />
+        <option value="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/22setFullYear.html" />
+        <option value="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/21setDate.html" />
+        <option value="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/20getYear.html" />
+        <option value="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/19getUTCSeconds.html" />
+        <option value="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/18getUTCMonth.html" />
+        <option value="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/17getUTCMinutes.html" />
+        <option value="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/16getUTCMilliseconds.html" />
+        <option value="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/15getUTCHours.html" />
+        <option value="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/14getUTCFullYear.html" />
+        <option value="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/13getUTCDay.html" />
+        <option value="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/12getUTCDate.html" />
+        <option value="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/11getTimezoneOffset.html" />
+        <option value="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/10getTime.html" />
+        <option value="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/9getSeconds.html" />
+        <option value="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/8getMonth.html" />
+        <option value="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/7getMinutes.html" />
+        <option value="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/6getMilliseconds.html" />
+        <option value="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/5getHours.html" />
+        <option value="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/4getFullYear.html" />
+        <option value="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/3getDay.html" />
+        <option value="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/2getDate.html" />
+        <option value="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/1Date.html" />
       </list>
     </option>
   </component>
@@ -186,9 +304,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="76" />
-    <option name="width" value="1199" />
-    <option name="height" value="1000" />
+    <option name="y" value="24" />
+    <option name="width" value="826" />
+    <option name="height" value="1049" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -212,21 +330,14 @@
               <item name="JavascriptTutorial" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavascriptTutorial" type="462c0819:PsiDirectoryNode" />
               <item name="B.Objects" type="462c0819:PsiDirectoryNode" />
-              <item name="5.Arrays" type="462c0819:PsiDirectoryNode" />
+              <item name="6.Date" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavascriptTutorial" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavascriptTutorial" type="462c0819:PsiDirectoryNode" />
               <item name="B.Objects" type="462c0819:PsiDirectoryNode" />
-              <item name="5.Arrays" type="462c0819:PsiDirectoryNode" />
-              <item name="a.ArrayProperties" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavascriptTutorial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavascriptTutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="B.Objects" type="462c0819:PsiDirectoryNode" />
-              <item name="5.Arrays" type="462c0819:PsiDirectoryNode" />
-              <item name="b.ArrayMethods" type="462c0819:PsiDirectoryNode" />
+              <item name="6.Date" type="462c0819:PsiDirectoryNode" />
+              <item name="b.DateMethods" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -311,7 +422,7 @@
       <option name="presentableId" value="Default" />
       <updated>1535541894140</updated>
       <workItem from="1535541895382" duration="11294000" />
-      <workItem from="1535704904362" duration="13332000" />
+      <workItem from="1535704904362" duration="16260000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1535544955513</created>
@@ -460,14 +571,22 @@
       <option name="project" value="LOCAL" />
       <updated>1535725742715</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="init">
+      <created>1535729156154</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1535729156154</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24626000" />
+    <option name="totallyTimeSpent" value="27554000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="2048" height="1049" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24913666" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -499,360 +618,360 @@
     <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/B.Objects/4.String/a.StringProperties/1constructor.html">
+    <entry file="file://$PROJECT_DIR$/B.Objects/6.Date/a.DateProperties/2prototype.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="360">
+          <caret line="24" column="7" lean-forward="true" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/3.Boolean/b.BooleanMethods/3valueOf.html">
+    <entry file="file://$PROJECT_DIR$/B.Objects/6.Date/c.DateStaticMethods/1DateParse.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        <state relative-caret-position="210">
+          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/3.Boolean/b.BooleanMethods/2toString.html">
+    <entry file="file://$PROJECT_DIR$/B.Objects/6.Date/c.DateStaticMethods/2DateUTC.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        <state relative-caret-position="210">
+          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/4.String/b.StringMethods/9search.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="7" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/4.String/b.StringMethods/11split.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/4.String/b.StringMethods/10slice.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/4.String/b.StringMethods/12substr.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/4.String/b.StringMethods/19valueOf.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/4.String/b.StringMethods/18toString.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/4.String/b.StringMethods/17toUpperCase.html">
+    <entry file="file://$PROJECT_DIR$/B.Objects/6.Date/a.DateProperties/1constructor.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/4.String/b.StringMethods/16toLowerCase.html">
+    <entry file="file://$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/47valueOf.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        <state relative-caret-position="210">
+          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/4.String/b.StringMethods/15toLocaleUpperCase.html">
+    <entry file="file://$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/46toUTCString.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        <state relative-caret-position="210">
+          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/4.String/b.StringMethods/14toLocaleLowerCase.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/4.String/b.StringMethods/13substring.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/4.String/c.StringHTMLWrappers/1anchor.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/4.String/c.StringHTMLWrappers/2big.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="31" lean-forward="true" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/4.String/c.StringHTMLWrappers/3blink.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/4.String/c.StringHTMLWrappers/4bold.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="50" lean-forward="true" selection-start-line="2" selection-start-column="50" selection-end-line="2" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/4.String/c.StringHTMLWrappers/5fixed.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="6" lean-forward="true" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/4.String/c.StringHTMLWrappers/6fontcolor.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/4.String/c.StringHTMLWrappers/7fontsize.html">
+    <entry file="file://$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/45toTimeString.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="10" column="37" lean-forward="true" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/4.String/c.StringHTMLWrappers/8italics.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/4.String/c.StringHTMLWrappers/9link.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/4.String/c.StringHTMLWrappers/10small.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="32" lean-forward="true" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/4.String/c.StringHTMLWrappers/11strike.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="6" lean-forward="true" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/4.String/c.StringHTMLWrappers/12sub.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="40" lean-forward="true" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/4.String/c.StringHTMLWrappers/13sup.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/5.Arrays/a.ArrayProperties/1constructor.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/5.Arrays/a.ArrayProperties/2length.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/5.Arrays/a.ArrayProperties/3prototype.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="7" lean-forward="true" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/1concat.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/2every.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/3filter.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" column="7" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/4forEach.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="7" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/5indexOf.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="37" column="7" selection-start-line="37" selection-start-column="7" selection-end-line="37" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/6join.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/7lastIndexOf.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="645">
-          <caret line="43" column="7" selection-start-line="43" selection-start-column="7" selection-end-line="43" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/8map.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="7" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/9pop.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/10push.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/11reduce.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="750">
-          <caret line="50" column="7" selection-start-line="50" selection-start-column="7" selection-end-line="50" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/21unshift.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/20toString.html">
+    <entry file="file://$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/44toString.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/19splice.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/18sort.html">
+    <entry file="file://$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/43toSource.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/17toSource.html">
+    <entry file="file://$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/42toLocaleTimeString.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/16some.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" column="7" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/15slice.html">
+    <entry file="file://$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/41toLocaleString.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/13reverse.html">
+    <entry file="file://$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/40toLocaleFormat.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/39toLocaleDateString.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/38toGMTString.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/37toDateString.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/36setYear.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/35setUTCSeconds.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/34setUTCMonth.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/33setUTCMinutes.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/32setUTCMilliseconds.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/31setUTCHours.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/30setUTCFullYear.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/29setUTCDate.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/28setTime.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/27setSeconds.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/26setMonth.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/25setMinutes.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/24setMilliseconds.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/23setHours.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/22setFullYear.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/21setDate.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/20getYear.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/19getUTCSeconds.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/12reduceRight.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="735">
-          <caret line="49" column="7" selection-start-line="49" selection-start-column="7" selection-end-line="49" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/14shift.html">
+    <entry file="file://$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/18getUTCMonth.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/17getUTCMinutes.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/16getUTCMilliseconds.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/15getUTCHours.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/14getUTCFullYear.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/13getUTCDay.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/12getUTCDate.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/11getTimezoneOffset.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/10getTime.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/9getSeconds.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/8getMonth.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/7getMinutes.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/6getMilliseconds.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/5getHours.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/4getFullYear.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/3getDay.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/2getDate.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/1Date.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
         </state>
       </provider>
     </entry>
