@@ -1,0 +1,29 @@
+<html>
+
+<head>
+    <title>JavaScript RegExp multiline Property</title>
+</head>
+
+<body>
+
+<script type="text/javascript">
+    var re = new RegExp("string");
+
+    if (re.multiline) {
+        document.write("Test1-multiline property is set");
+    }
+    else {
+        document.write("Test1-multiline property is not set");
+    }
+    re = new RegExp("string", "m");
+
+    if (re.multiline) {
+        document.write("<br/>Test2-multiline property is set");
+    }
+    else {
+        document.write("<br/>Test2-multiline property is not set");
+    }
+</script>
+
+</body>
+</html>

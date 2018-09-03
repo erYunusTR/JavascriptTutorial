@@ -1,0 +1,28 @@
+<html>
+
+<head>
+    <title>JavaScript RegExp ignoreCase Property</title>
+</head>
+
+<body>
+<script type="text/javascript">
+    var re = new RegExp("string");
+
+    if (re.ignoreCase) {
+        document.write("Test1-ignoreCase property is set");
+    }
+    else {
+        document.write("Test1-ignoreCase property is not set");
+    }
+    re = new RegExp("string", "i");
+
+    if (re.ignoreCase) {
+        document.write("<br/>Test2-ignoreCase property is set");
+    }
+    else {
+        document.write("<br/>Test2-ignoreCase property is not set");
+    }
+</script>
+
+</body>
+</html>
