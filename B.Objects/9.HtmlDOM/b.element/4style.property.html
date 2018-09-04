@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<p id="birinci"> ilk paragraf</p>
+<p class="kutu">ikinci pragraf</p>
+<p class="kutu">üçüncü paragraf</p>
+<p>dördüncü paragraf</p>
+
+<script>
+
+    //bütün kutu olan nesneleri dizi olarak seçtik
+    var etiket = document.getElementById("birinci");
+
+    //etiket stilini değiştirme
+    etiket.style.color = "#4bc334";
+    etiket.style.fontSize = "36px";
+    etiket.style.fontStyle = "italic";
+
+    //etiket stilini okuma
+    alert(etiket.style.fontSize);
+
+</script>
+</body>
+</html>

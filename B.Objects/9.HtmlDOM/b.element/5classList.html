@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<p id="birinci"> ilk paragraf</p>
+<p class="kutu">ikinci pragraf</p>
+<p class="kutu">üçüncü paragraf</p>
+<p>dördüncü paragraf</p>
+
+<script>
+
+    var etiket = document.getElementById("birinci");
+
+    etiket.classList.add("cerceve");
+    etiket.classList.add("kirmizi");
+
+    //gizle classı yoksa gizle class'ını ekler.
+    etiket.classList.toggle("gizle");
+
+    //şart sağlanırsa, gizle class'ı yoksa ekler varsa çıkarır.
+    var i = 5;
+    etiket.classList.toggle("gizle", i < 10);
+
+    //cerceve varsa true değerini döndürür.
+    alert(etiket.classList.contains("cerceve"));
+
+    // toplu halde class ekleme ve silme yapabiliriz.
+    div.classList.add("cerceve", "kirmizi");
+    div.classList.remove("cerceve", "kirmizi");
+
+</script>
+</body>
+</html>

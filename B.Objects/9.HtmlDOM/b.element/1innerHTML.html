@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<p id="birinci"> ilk paragraf</p>
+<p class="kutu">ikinci pragraf</p>
+<p class="kutu">üçüncü paragraf</p>
+<p>dördüncü paragraf</p>
+
+<script>
+
+    //bir tane etiket seçtik
+    var nesne = document.getElementById("birinci");
+
+    // etiketin içeriğini okuma
+    alert(nesne.innerHTML);
+
+    //etiketin içeriğini değiştirme
+    nesne.innerHTML = "<strong>Önemli:</strong> Etiketin içeriği değişti!!!";
+
+</script>
+</body>
+</html>

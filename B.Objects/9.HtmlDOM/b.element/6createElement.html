@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<select id="takim">
+    <option value="1">Galatasaray</option>
+</select>
+
+<script>
+
+    /*
+    document.createElement(element) :HTML etiketi oluşturma
+    document.removeChild(element): HTML etiketi silme
+    document.appendChild(element): HTML etiketi ekleme
+    document.replaceChild(element): HTML etiketini değiştirme
+     */
+
+    var takimListe = document.getElementById("takim");
+
+    var takim = document.createElement("option");
+    takim.setAttribute("value", "2");
+    takim.innerHTML = "Beşiktaş";
+    takimListe.appendChild(takim);
+
+</script>
+</body>
+</html>

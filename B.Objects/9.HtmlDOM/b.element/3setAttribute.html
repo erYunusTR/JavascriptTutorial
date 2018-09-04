@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<style>
+    .kirmizi {
+        background: red;
+        color: #fff;
+    }
+</style>
+
+
+<p id="birinci"> ilk paragraf</p>
+<p class="kutu">ikinci pragraf</p>
+<p class="kutu">üçüncü paragraf</p>
+<p>dördüncü paragraf</p>
+
+<script>
+
+    //bütün kutu olan nesneleri dizi olarak seçtik
+    var nesneler = document.querySelectorAll(".kutu");
+
+    //foreach ile dizi elemanları üzerinde okuma yapılabiliyor.
+    nesneler.forEach(function (nesne) {
+        nesne.setAttribute("class", "kirmizi");
+    });
+
+</script>
+</body>
+</html>
