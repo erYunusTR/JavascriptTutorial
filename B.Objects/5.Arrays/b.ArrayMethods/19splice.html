@@ -8,7 +8,9 @@
 <script type="text/javascript">
     var arr = ["orange", "mango", "banana", "sugar", "tea"];
 
-    var removed = arr.splice(2, 0, "water");
+    //Syntax: array.splice(index, howMany, [element1][, ..., elementN]);
+
+    var removed = arr.splice(2, 0, "water", "apple");
     document.write("After adding 1: " + arr);
     document.write("<br />removed is: " + removed);
 

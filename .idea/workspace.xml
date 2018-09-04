@@ -2,44 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="59b69d8b-4d04-4a59-b91c-ad04075d8a83" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/B.Objects/7.Math/a.MathProperties/1e.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/7.Math/a.MathProperties/2ln2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/7.Math/a.MathProperties/3ln10.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/7.Math/a.MathProperties/4log2e.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/7.Math/a.MathProperties/5log10e.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/7.Math/a.MathProperties/6pi.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/7.Math/a.MathProperties/7sqrt1_2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/7.Math/a.MathProperties/8sqrt2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/7.Math/b.MathMethods/10log.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/7.Math/b.MathMethods/11max.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/7.Math/b.MathMethods/12min.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/7.Math/b.MathMethods/13pow.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/7.Math/b.MathMethods/14random.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/7.Math/b.MathMethods/15round.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/7.Math/b.MathMethods/16sin.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/7.Math/b.MathMethods/17sqrt.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/7.Math/b.MathMethods/18tan.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/7.Math/b.MathMethods/19toSource.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/7.Math/b.MathMethods/1abs.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/7.Math/b.MathMethods/2acos.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/7.Math/b.MathMethods/3asin.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/7.Math/b.MathMethods/4atan.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/7.Math/b.MathMethods/5atan2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/7.Math/b.MathMethods/6ceil.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/7.Math/b.MathMethods/7cos.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/7.Math/b.MathMethods/8exp.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/7.Math/b.MathMethods/9floor.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/8.RegExp/a.RegExpProperties/1constructor.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/8.RegExp/a.RegExpProperties/2global.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/8.RegExp/a.RegExpProperties/3ignoreCase.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/8.RegExp/a.RegExpProperties/4lastIndex.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/8.RegExp/a.RegExpProperties/5multiline.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/8.RegExp/a.RegExpProperties/6source.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/8.RegExp/b.RegExpMethods/1exec.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/8.RegExp/b.RegExpMethods/2test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/8.RegExp/b.RegExpMethods/3toSource.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.Objects/8.RegExp/b.RegExpMethods/4toString.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A.Basics/20.Void/2.html" beforeDir="false" afterPath="$PROJECT_DIR$/A.Basics/20.Void/2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/10push.html" beforeDir="false" afterPath="$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/10push.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/12reduceRight.html" beforeDir="false" afterPath="$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/12reduceRight.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/13reverse.html" beforeDir="false" afterPath="$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/13reverse.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/14shift.html" beforeDir="false" afterPath="$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/14shift.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/15slice.html" beforeDir="false" afterPath="$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/15slice.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/16some.html" beforeDir="false" afterPath="$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/16some.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/18sort.html" beforeDir="false" afterPath="$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/18sort.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/19splice.html" beforeDir="false" afterPath="$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/19splice.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/1concat.html" beforeDir="false" afterPath="$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/1concat.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/21unshift.html" beforeDir="false" afterPath="$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/21unshift.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/8map.html" beforeDir="false" afterPath="$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/8map.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/9pop.html" beforeDir="false" afterPath="$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/9pop.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/2getDate.html" beforeDir="false" afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/2getDate.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/3getDay.html" beforeDir="false" afterPath="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/3getDay.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -90,15 +68,16 @@
     <session id="1711479318">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="338" />
+          <entry key="HTML" value="478" />
           <entry key="RegExp" value="2" />
         </counts>
       </usages-collector>
@@ -106,46 +85,37 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="RegExp" value="2" />
-          <entry key="html" value="338" />
+          <entry key="html" value="478" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="627" />
+          <entry key="HTML" value="882" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="627" />
+          <entry key="html" value="882" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/B.Objects/8.RegExp/a.RegExpProperties/1constructor.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
-              <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/B.Objects/8.RegExp/a.RegExpProperties/2global.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" column="7" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
+              <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/B.Objects/8.RegExp/a.RegExpProperties/3ignoreCase.html">
+        <entry file="file://$PROJECT_DIR$/B.Objects/8.RegExp/a.RegExpProperties/2global.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" column="7" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
+            <state relative-caret-position="75">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -153,8 +123,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/B.Objects/8.RegExp/a.RegExpProperties/4lastIndex.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+            <state relative-caret-position="210">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -162,8 +132,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/B.Objects/8.RegExp/a.RegExpProperties/5multiline.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" column="7" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
+            <state relative-caret-position="105">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -171,8 +141,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/B.Objects/8.RegExp/a.RegExpProperties/6source.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+            <state relative-caret-position="105">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -180,8 +150,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/B.Objects/8.RegExp/b.RegExpMethods/1exec.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+            <state relative-caret-position="270">
+              <caret line="18" column="58" lean-forward="true" selection-start-line="18" selection-start-column="58" selection-end-line="18" selection-end-column="58" />
             </state>
           </provider>
         </entry>
@@ -189,8 +159,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/B.Objects/8.RegExp/b.RegExpMethods/2test.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+            <state relative-caret-position="135">
+              <caret line="9" column="51" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -199,16 +169,25 @@
         <entry file="file://$PROJECT_DIR$/B.Objects/8.RegExp/b.RegExpMethods/3toSource.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
-              <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+              <caret line="4" column="7" lean-forward="true" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/B.Objects/8.RegExp/b.RegExpMethods/4toString.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="7" lean-forward="true" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/B.Objects/8.RegExp/b.RegExpMethods/4toString.html">
+        <entry file="file://$PROJECT_DIR$/B.Objects/8.RegExp/a.RegExpProperties/3ignoreCase.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+            <state relative-caret-position="75">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -233,27 +212,18 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/12getUTCDate.html" />
-        <option value="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/11getTimezoneOffset.html" />
-        <option value="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/10getTime.html" />
-        <option value="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/9getSeconds.html" />
-        <option value="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/8getMonth.html" />
-        <option value="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/7getMinutes.html" />
-        <option value="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/6getMilliseconds.html" />
-        <option value="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/5getHours.html" />
-        <option value="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/4getFullYear.html" />
-        <option value="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/3getDay.html" />
-        <option value="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/2getDate.html" />
-        <option value="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/1Date.html" />
-        <option value="$PROJECT_DIR$/B.Objects/7.Math/a.MathProperties/1e.html" />
-        <option value="$PROJECT_DIR$/B.Objects/7.Math/b.MathMethods/10toSource.html" />
-        <option value="$PROJECT_DIR$/B.Objects/7.Math/a.MathProperties/8sqrt2.html" />
-        <option value="$PROJECT_DIR$/B.Objects/7.Math/a.MathProperties/7sqrt1_2.html" />
-        <option value="$PROJECT_DIR$/B.Objects/7.Math/a.MathProperties/6pi.html" />
-        <option value="$PROJECT_DIR$/B.Objects/7.Math/a.MathProperties/5log10e.html" />
-        <option value="$PROJECT_DIR$/B.Objects/7.Math/a.MathProperties/4log2e.html" />
-        <option value="$PROJECT_DIR$/B.Objects/7.Math/a.MathProperties/3ln10.html" />
         <option value="$PROJECT_DIR$/B.Objects/7.Math/a.MathProperties/2ln2.html" />
+        <option value="$PROJECT_DIR$/B.Objects/1.html" />
+        <option value="$PROJECT_DIR$/B.Objects/8.RegExp/b.RegExpMethods/4toString.html" />
+        <option value="$PROJECT_DIR$/B.Objects/8.RegExp/b.RegExpMethods/3toSource.html" />
+        <option value="$PROJECT_DIR$/B.Objects/8.RegExp/b.RegExpMethods/2test.html" />
+        <option value="$PROJECT_DIR$/B.Objects/8.RegExp/b.RegExpMethods/1exec.html" />
+        <option value="$PROJECT_DIR$/B.Objects/8.RegExp/a.RegExpProperties/6source.html" />
+        <option value="$PROJECT_DIR$/B.Objects/8.RegExp/a.RegExpProperties/5multiline.html" />
+        <option value="$PROJECT_DIR$/B.Objects/8.RegExp/a.RegExpProperties/4lastIndex.html" />
+        <option value="$PROJECT_DIR$/B.Objects/8.RegExp/a.RegExpProperties/3ignoreCase.html" />
+        <option value="$PROJECT_DIR$/B.Objects/8.RegExp/a.RegExpProperties/2global.html" />
+        <option value="$PROJECT_DIR$/B.Objects/8.RegExp/a.RegExpProperties/1constructor.html" />
         <option value="$PROJECT_DIR$/B.Objects/7.Math/b.MathMethods/19toSource.html" />
         <option value="$PROJECT_DIR$/B.Objects/7.Math/b.MathMethods/18tan.html" />
         <option value="$PROJECT_DIR$/B.Objects/7.Math/b.MathMethods/17sqrt.html" />
@@ -273,17 +243,26 @@
         <option value="$PROJECT_DIR$/B.Objects/7.Math/b.MathMethods/3asin.html" />
         <option value="$PROJECT_DIR$/B.Objects/7.Math/b.MathMethods/2acos.html" />
         <option value="$PROJECT_DIR$/B.Objects/7.Math/b.MathMethods/1abs.html" />
-        <option value="$PROJECT_DIR$/B.Objects/1.html" />
-        <option value="$PROJECT_DIR$/B.Objects/8.RegExp/a.RegExpProperties/1constructor.html" />
-        <option value="$PROJECT_DIR$/B.Objects/8.RegExp/b.RegExpMethods/1exec.html" />
-        <option value="$PROJECT_DIR$/B.Objects/8.RegExp/b.RegExpMethods/2test.html" />
-        <option value="$PROJECT_DIR$/B.Objects/8.RegExp/b.RegExpMethods/3toSource.html" />
-        <option value="$PROJECT_DIR$/B.Objects/8.RegExp/b.RegExpMethods/4toString.html" />
-        <option value="$PROJECT_DIR$/B.Objects/8.RegExp/a.RegExpProperties/6source.html" />
-        <option value="$PROJECT_DIR$/B.Objects/8.RegExp/a.RegExpProperties/5multiline.html" />
-        <option value="$PROJECT_DIR$/B.Objects/8.RegExp/a.RegExpProperties/4lastIndex.html" />
-        <option value="$PROJECT_DIR$/B.Objects/8.RegExp/a.RegExpProperties/3ignoreCase.html" />
-        <option value="$PROJECT_DIR$/B.Objects/8.RegExp/a.RegExpProperties/2global.html" />
+        <option value="$PROJECT_DIR$/B.Objects/3.Boolean/a.BooleanProperties/2prototype.html" />
+        <option value="$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/1concat.html" />
+        <option value="$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/5indexOf.html" />
+        <option value="$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/8map.html" />
+        <option value="$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/9pop.html" />
+        <option value="$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/10push.html" />
+        <option value="$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/11reduce.html" />
+        <option value="$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/12reduceRight.html" />
+        <option value="$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/13reverse.html" />
+        <option value="$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/14shift.html" />
+        <option value="$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/15slice.html" />
+        <option value="$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/16some.html" />
+        <option value="$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/18sort.html" />
+        <option value="$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/19splice.html" />
+        <option value="$PROJECT_DIR$/B.Objects/5.Arrays/b.ArrayMethods/21unshift.html" />
+        <option value="$PROJECT_DIR$/A.Basics/20.Void/2.html" />
+        <option value="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/2getDate.html" />
+        <option value="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/3getDay.html" />
+        <option value="$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/20getYear.html" />
+        <option value="$PROJECT_DIR$/B.Objects/7.Math/a.MathProperties/7sqrt1_2.html" />
       </list>
     </option>
   </component>
@@ -295,7 +274,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="969" />
+    <option name="width" value="1788" />
     <option name="height" value="1049" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -304,6 +283,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -316,31 +296,10 @@
               <item name="JavascriptTutorial" type="462c0819:PsiDirectoryNode" />
               <item name="B.Objects" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="JavascriptTutorial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavascriptTutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="B.Objects" type="462c0819:PsiDirectoryNode" />
-              <item name="8.RegExp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavascriptTutorial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavascriptTutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="B.Objects" type="462c0819:PsiDirectoryNode" />
-              <item name="8.RegExp" type="462c0819:PsiDirectoryNode" />
-              <item name="a.RegExpProperties" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavascriptTutorial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavascriptTutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="B.Objects" type="462c0819:PsiDirectoryNode" />
-              <item name="8.RegExp" type="462c0819:PsiDirectoryNode" />
-              <item name="b.RegExpMethods" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -371,14 +330,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.1.html (2)">
-    <configuration name="1.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScriptOrneklerim/4.ComparisonOperators/1.html">
+  <component name="RunManager" selected="JavaScript Debug.12reduceRight.html">
+    <configuration name="12reduceRight.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavascriptTutorial/B.Objects/5.Arrays/b.ArrayMethods/12reduceRight.html">
       <method v="2" />
     </configuration>
     <configuration name="1.html (2)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScriptOrneklerim/20.Void/1.html">
-      <method v="2" />
-    </configuration>
-    <configuration name="1.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScriptOrneklerim/AritmeticOperators/1.html">
       <method v="2" />
     </configuration>
     <configuration name="1setCookie.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScriptOrneklerim/17.Cookies/1setCookie.html">
@@ -392,19 +348,18 @@
     </configuration>
     <list>
       <item itemvalue="JavaScript Debug.1setCookie.html" />
-      <item itemvalue="JavaScript Debug.1.html" />
-      <item itemvalue="JavaScript Debug.1.html (1)" />
       <item itemvalue="JavaScript Debug.2onmouseover.html" />
       <item itemvalue="JavaScript Debug.1.html (2)" />
       <item itemvalue="JavaScript Debug.2getCookie.html" />
+      <item itemvalue="JavaScript Debug.12reduceRight.html" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.12reduceRight.html" />
         <item itemvalue="JavaScript Debug.1.html (2)" />
         <item itemvalue="JavaScript Debug.2getCookie.html" />
         <item itemvalue="JavaScript Debug.1setCookie.html" />
         <item itemvalue="JavaScript Debug.2onmouseover.html" />
-        <item itemvalue="JavaScript Debug.1.html (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -420,7 +375,8 @@
       <updated>1535541894140</updated>
       <workItem from="1535541895382" duration="11294000" />
       <workItem from="1535704904362" duration="16868000" />
-      <workItem from="1535966665032" duration="1188000" />
+      <workItem from="1535966665032" duration="9206000" />
+      <workItem from="1536047861969" duration="194000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1535544955513</created>
@@ -590,17 +546,32 @@
       <option name="project" value="LOCAL" />
       <updated>1535733178864</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="init">
+      <created>1535969503500</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1535969503500</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29350000" />
+    <option name="totallyTimeSpent" value="37562000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="969" height="1049" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1788" height="1049" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.5327004" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28579512" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -609,10 +580,10 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3291536" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3291536" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3291536" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.3291536" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -630,356 +601,352 @@
     <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/12getUTCDate.html">
+    <entry file="file://$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/21setDate.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        <state relative-caret-position="75">
+          <caret line="5" column="31" lean-forward="true" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/11getTimezoneOffset.html">
+    <entry file="file://$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/29setUTCDate.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/37toDateString.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/1Date.html">
+    <entry file="file://$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/38toGMTString.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/39toLocaleDateString.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/40toLocaleFormat.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/41toLocaleString.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/42toLocaleTimeString.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/2getDate.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/3getDay.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/4getFullYear.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/5getHours.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/6getMilliseconds.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/7getMinutes.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/8getMonth.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/9getSeconds.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/10getTime.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/7.Math/a.MathProperties/8sqrt2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/7.Math/a.MathProperties/7sqrt1_2.html">
+    <entry file="file://$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/43toSource.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/7.Math/a.MathProperties/5log10e.html">
+    <entry file="file://$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/44toString.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/45toTimeString.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/46toUTCString.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/7.Math/a.MathProperties/6pi.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/7.Math/a.MathProperties/4log2e.html">
+    <entry file="file://$PROJECT_DIR$/B.Objects/6.Date/b.DateMethods/47valueOf.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/7.Math/a.MathProperties/3ln10.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/7.Math/a.MathProperties/2ln2.html">
+    <entry file="file://$PROJECT_DIR$/B.Objects/6.Date/c.DateStaticMethods/1DateParse.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/6.Date/c.DateStaticMethods/2DateUTC.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="40" lean-forward="true" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/B.Objects/7.Math/a.MathProperties/1e.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/7.Math/b.MathMethods/19toSource.html">
+    <entry file="file://$PROJECT_DIR$/B.Objects/7.Math/a.MathProperties/2ln2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="7" lean-forward="true" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/7.Math/a.MathProperties/3ln10.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/7.Math/a.MathProperties/4log2e.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="31" lean-forward="true" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/7.Math/a.MathProperties/5log10e.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/7.Math/a.MathProperties/6pi.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="7" lean-forward="true" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/7.Math/a.MathProperties/7sqrt1_2.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/7.Math/b.MathMethods/18tan.html">
+    <entry file="file://$PROJECT_DIR$/B.Objects/7.Math/a.MathProperties/8sqrt2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+        <state relative-caret-position="90">
+          <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/7.Math/b.MathMethods/17sqrt.html">
+    <entry file="file://$PROJECT_DIR$/B.Objects/7.Math/b.MathMethods/1abs.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/7.Math/b.MathMethods/16sin.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/7.Math/b.MathMethods/15round.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/7.Math/b.MathMethods/14random.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/7.Math/b.MathMethods/13pow.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/7.Math/b.MathMethods/12min.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/7.Math/b.MathMethods/11max.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/7.Math/b.MathMethods/10log.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="7" lean-forward="true" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/7.Math/b.MathMethods/9floor.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/7.Math/b.MathMethods/8exp.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/7.Math/b.MathMethods/7cos.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="7" lean-forward="true" selection-end-line="23" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/7.Math/b.MathMethods/6ceil.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/7.Math/b.MathMethods/5atan2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/7.Math/b.MathMethods/4atan.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+        <state relative-caret-position="90">
+          <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/B.Objects/7.Math/b.MathMethods/3asin.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+        <state relative-caret-position="135">
+          <caret line="9" column="30" lean-forward="true" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/7.Math/b.MathMethods/4atan.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/7.Math/b.MathMethods/5atan2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/7.Math/b.MathMethods/6ceil.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="7" lean-forward="true" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/7.Math/b.MathMethods/7cos.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/B.Objects/7.Math/b.MathMethods/2acos.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/1.html">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+          <caret line="4" column="7" lean-forward="true" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/8.RegExp">
+    <entry file="file://$PROJECT_DIR$/B.Objects/7.Math/b.MathMethods/8exp.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/7.Math/b.MathMethods/1abs.html">
+    <entry file="file://$PROJECT_DIR$/B.Objects/7.Math/b.MathMethods/9floor.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="7" lean-forward="true" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/7.Math/b.MathMethods/10log.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/7.Math/b.MathMethods/11max.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="47" lean-forward="true" selection-start-line="3" selection-start-column="47" selection-end-line="3" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/7.Math/b.MathMethods/12min.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="7" lean-forward="true" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/7.Math/b.MathMethods/13pow.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/7.Math/b.MathMethods/14random.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="31" lean-forward="true" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/7.Math/b.MathMethods/15round.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/7.Math/b.MathMethods/16sin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/7.Math/b.MathMethods/17sqrt.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="37" lean-forward="true" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/7.Math/b.MathMethods/19toSource.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/B.Objects/8.RegExp/a.RegExpProperties/1constructor.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/8.RegExp/a.RegExpProperties/2global.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/8.RegExp/a.RegExpProperties/4lastIndex.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/8.RegExp/a.RegExpProperties/5multiline.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/8.RegExp/a.RegExpProperties/6source.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/B.Objects/8.RegExp/b.RegExpMethods/1exec.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+        <state relative-caret-position="270">
+          <caret line="18" column="58" lean-forward="true" selection-start-line="18" selection-start-column="58" selection-end-line="18" selection-end-column="58" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/B.Objects/8.RegExp/b.RegExpMethods/2test.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+        <state relative-caret-position="135">
+          <caret line="9" column="51" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/B.Objects/8.RegExp/b.RegExpMethods/3toSource.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/8.RegExp/b.RegExpMethods/4toString.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/8.RegExp/a.RegExpProperties/6source.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/8.RegExp/a.RegExpProperties/5multiline.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="7" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/8.RegExp/a.RegExpProperties/4lastIndex.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+          <caret line="4" column="7" lean-forward="true" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/B.Objects/8.RegExp/a.RegExpProperties/3ignoreCase.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="7" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/8.RegExp/a.RegExpProperties/2global.html">
+    <entry file="file://$PROJECT_DIR$/B.Objects/8.RegExp/b.RegExpMethods/4toString.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="7" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
+        <state relative-caret-position="330">
+          <caret line="22" column="7" lean-forward="true" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
         </state>
       </provider>
     </entry>
