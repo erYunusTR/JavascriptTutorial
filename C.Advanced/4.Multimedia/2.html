@@ -1,0 +1,21 @@
+<html>
+
+<head>
+    <title>Using Plug-Ins</title>
+</head>
+
+<body>
+
+<script language="JavaScript" type="text/javascript">
+    media = navigator.mimeTypes["video/quicktime"];
+
+    if (media){
+        document.write("<embed src='quick.mov' height=100 width=100>");
+    }
+    else
+    {
+        document.write("<img src='https://media.giphy.com/media/8FSME0axQa4wYo2GCu/giphy.gif' height=100 width=100>");
+    }
+</script>
+</body>
+</html>
