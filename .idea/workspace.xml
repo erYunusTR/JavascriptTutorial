@@ -2,22 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="59b69d8b-4d04-4a59-b91c-ad04075d8a83" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/C.Advanced/1.ErrorHandling/1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C.Advanced/1.ErrorHandling/2trycatch.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C.Advanced/1.ErrorHandling/3finally.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C.Advanced/1.ErrorHandling/4throw.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C.Advanced/1.ErrorHandling/5.1onerror.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C.Advanced/1.ErrorHandling/5.2onerror.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C.Advanced/2.Validations/1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C.Advanced/3.Animation/1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C.Advanced/3.Animation/2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C.Advanced/3.Animation/3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C.Advanced/4.Multimedia/1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C.Advanced/4.Multimedia/2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C.Advanced/4.Multimedia/3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C.Advanced/5.ImageMap/1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C.Advanced/6.Browsers/1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/B.Objects/9.HtmlDOM/b.element/1innerHTML.html" beforeDir="false" afterPath="$PROJECT_DIR$/B.Objects/9.HtmlDOM/b.tag/1innerHTML.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/B.Objects/9.HtmlDOM/b.element/2.1attribute.html" beforeDir="false" afterPath="$PROJECT_DIR$/B.Objects/9.HtmlDOM/b.tag/2.1attribute.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/B.Objects/9.HtmlDOM/b.element/2.2attribute.html" beforeDir="false" afterPath="$PROJECT_DIR$/B.Objects/9.HtmlDOM/b.tag/2.2attribute.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/B.Objects/9.HtmlDOM/b.element/3setAttribute.html" beforeDir="false" afterPath="$PROJECT_DIR$/B.Objects/9.HtmlDOM/b.tag/3setAttribute.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/B.Objects/9.HtmlDOM/b.element/4style.property.html" beforeDir="false" afterPath="$PROJECT_DIR$/B.Objects/9.HtmlDOM/b.tag/4style.property.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/B.Objects/9.HtmlDOM/b.element/5classList.html" beforeDir="false" afterPath="$PROJECT_DIR$/B.Objects/9.HtmlDOM/b.tag/5classList.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/B.Objects/9.HtmlDOM/b.element/6createElement.html" beforeDir="false" afterPath="$PROJECT_DIR$/B.Objects/9.HtmlDOM/b.tag/6createElement.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/B.Objects/9.HtmlDOM/b.element/7addEventListener.html" beforeDir="false" afterPath="$PROJECT_DIR$/B.Objects/9.HtmlDOM/b.tag/7addEventListener.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/B.Objects/9.HtmlDOM/b.element/8ElementEvent.html" beforeDir="false" afterPath="$PROJECT_DIR$/B.Objects/9.HtmlDOM/b.tag/8ElementEvent.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -68,11 +62,12 @@
     <session id="1711479318">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="2" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -117,7 +112,7 @@
         <entry file="file://$PROJECT_DIR$/C.Advanced/5.ImageMap/1.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
         </entry>
@@ -125,8 +120,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/C.Advanced/6.Browsers/1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="38" column="7" lean-forward="true" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
+            <state relative-caret-position="315">
+              <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -247,13 +242,30 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="JavascriptTutorial" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavascriptTutorial" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavascriptTutorial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavascriptTutorial" type="462c0819:PsiDirectoryNode" />
+              <item name="B.Objects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavascriptTutorial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavascriptTutorial" type="462c0819:PsiDirectoryNode" />
+              <item name="B.Objects" type="462c0819:PsiDirectoryNode" />
+              <item name="9.HtmlDOM" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavascriptTutorial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavascriptTutorial" type="462c0819:PsiDirectoryNode" />
+              <item name="B.Objects" type="462c0819:PsiDirectoryNode" />
+              <item name="9.HtmlDOM" type="462c0819:PsiDirectoryNode" />
+              <item name="b.tag" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavascriptTutorial" type="b2602c69:ProjectViewProjectNode" />
@@ -270,6 +282,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -347,7 +360,8 @@
       <workItem from="1535704904362" duration="16868000" />
       <workItem from="1535966665032" duration="9206000" />
       <workItem from="1536047861969" duration="656000" />
-      <workItem from="1536063942822" duration="7562000" />
+      <workItem from="1536063942822" duration="7642000" />
+      <workItem from="1536134042306" duration="211000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1535544955513</created>
@@ -538,11 +552,18 @@
       <option name="project" value="LOCAL" />
       <updated>1536067972615</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="init">
+      <created>1536080012971</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1536080012971</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45586000" />
+    <option name="totallyTimeSpent" value="45877000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -555,6 +576,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1788" height="1049" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2852292" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -719,16 +741,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/9.HtmlDOM/b.element">
+    <entry file="file://$PROJECT_DIR$/B.Objects/9.HtmlDOM/b.tag">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/9.HtmlDOM/b.element/7.2addEventListener.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/B.Objects/9.HtmlDOM/b.element/7.2addEventListener.html" />
     <entry file="file://$PROJECT_DIR$/B.Objects/9.HtmlDOM/a.document/1getElementById.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -764,63 +780,63 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/9.HtmlDOM/b.element/8ElementEvent.html">
+    <entry file="file://$PROJECT_DIR$/B.Objects/9.HtmlDOM/b.tag/8ElementEvent.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="22" column="7" lean-forward="true" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/9.HtmlDOM/b.element/7addEventListener.html">
+    <entry file="file://$PROJECT_DIR$/B.Objects/9.HtmlDOM/b.tag/7addEventListener.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/9.HtmlDOM/b.element/6createElement.html">
+    <entry file="file://$PROJECT_DIR$/B.Objects/9.HtmlDOM/b.tag/6createElement.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/9.HtmlDOM/b.element/5classList.html">
+    <entry file="file://$PROJECT_DIR$/B.Objects/9.HtmlDOM/b.tag/5classList.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
           <caret line="32" selection-start-line="32" selection-end-line="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/9.HtmlDOM/b.element/4style.property.html">
+    <entry file="file://$PROJECT_DIR$/B.Objects/9.HtmlDOM/b.tag/4style.property.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/9.HtmlDOM/b.element/3setAttribute.html">
+    <entry file="file://$PROJECT_DIR$/B.Objects/9.HtmlDOM/b.tag/3setAttribute.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/9.HtmlDOM/b.element/2.2attribute.html">
+    <entry file="file://$PROJECT_DIR$/B.Objects/9.HtmlDOM/b.tag/2.2attribute.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/9.HtmlDOM/b.element/2.1attribute.html">
+    <entry file="file://$PROJECT_DIR$/B.Objects/9.HtmlDOM/b.tag/2.1attribute.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/B.Objects/9.HtmlDOM/b.element/1innerHTML.html">
+    <entry file="file://$PROJECT_DIR$/B.Objects/9.HtmlDOM/b.tag/1innerHTML.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="25" column="7" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
@@ -904,20 +920,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/C.Advanced/4.Multimedia/3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
-          <caret line="47" column="7" selection-start-line="47" selection-start-column="7" selection-end-line="47" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/C.Advanced/4.Multimedia/2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/C.Advanced/4.Multimedia/1.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -928,14 +930,28 @@
     <entry file="file://$PROJECT_DIR$/C.Advanced/5.ImageMap/1.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C.Advanced/4.Multimedia/2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C.Advanced/4.Multimedia/3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="47" column="7" selection-start-line="47" selection-start-column="7" selection-end-line="47" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/C.Advanced/6.Browsers/1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" column="7" lean-forward="true" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
+        <state relative-caret-position="315">
+          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
         </state>
       </provider>
     </entry>
